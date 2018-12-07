@@ -1,0 +1,11 @@
+{
+  "name": "vue-post",
+  "version": "1.0.0",
+  "description": "Full stack vue and express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Wyatt",
+  "license": "MIT"
+}
